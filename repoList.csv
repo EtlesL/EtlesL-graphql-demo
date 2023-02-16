@@ -1,0 +1,191 @@
+NameWithOwner,Stars,Description
+Snailclimb/JavaGuide,130889,「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！
+iluwatar/java-design-patterns,79819,Design patterns implemented in Java
+MisterBooo/LeetCodeAnimation,72336,Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）
+doocs/advanced-java,68614,😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识
+spring-projects/spring-boot,65580,Spring Boot
+macrozheng/mall,63558,mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
+elastic/elasticsearch,62718,"Free and Open, Distributed, RESTful Search Engine"
+kdn251/interviews,59207,Everything you need to know to get the job.
+GrowingGit/GitHub-Chinese-Top-Charts,59186,:cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
+spring-projects/spring-framework,50771,Spring Framework
+TheAlgorithms/Java,50296,All Algorithms implemented in Java
+ReactiveX/RxJava,46824,RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
+google/guava,46783,Google core libraries for Java
+square/retrofit,41143,A type-safe HTTP client for Android and the JVM
+apache/dubbo,38414,"Apache Dubbo is a high-performance, java based, open source RPC framework."
+NationalSecurityAgency/ghidra,37268,Ghidra is a software reverse engineering (SRE) framework
+PhilJay/MPAndroidChart,36130,"A powerful 🚀 Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, panning and animations."
+airbnb/lottie-android,33598,"Render After Effects animations natively on Android and iOS, Web, and React Native"
+jeecgboot/jeecg-boot,33446,⭐️「企业级低代码平台」前后端分离架构SpringBoot 2.x，SpringCloud，Ant Design&Vue，Mybatis，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新的开发模式OnlineCoding->代码生成->手工MERGE，帮助Java项目解决70%重复工作，让开发更关注业务，既能快速提高效率，帮助公司节省成本，同时又不失灵活性。
+bumptech/glide,33351,An image loading and caching library for Android focused on smooth scrolling
+eugenp/tutorials,33308,"Just Announced - ""Learn Spring Security OAuth"": "
+skylot/jadx,33303,Dex to Java decompiler
+geekxh/hello-algorithm,32028,🌍 针对小白的算法训练 | 包括四部分：①.大厂面经 ②.力扣图解  ③.千本开源电子书 ④.百张技术思维导图（项目花了上百小时，希望可以点 star 支持，🌹感谢~）点击下方网站，马上开始刷题！
+Blankj/AndroidUtilCode,31865,:fire: Android developers should collect the following utils(updating).
+alibaba/arthas,31733,Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas
+zxing/zxing,30688,"ZXing (""Zebra Crossing"") barcode scanning library for Java, Android"
+netty/netty,30679,Netty project - an event-driven asynchronous network application framework
+dbeaver/dbeaver,30481,Free universal database tool and SQL client
+xkcoding/spring-boot-demo,28690,🚀一个用来深入学习并实战 Spring Boot 的项目。
+ityouknow/spring-boot-examples,28506,about learning Spring Boot via examples. Spring Boot 教程、技术栈示例代码，快速简单上手教程。 
+apolloconfig/apollo,27734,Apollo is a reliable configuration management system suitable for microservice configuration management scenarios.
+crossoverJie/JCSprout,26935,"👨‍🎓 Java Core Sprout : basic, concurrent, algorithm "
+alibaba/easyexcel,26666,快速、简洁、解决大文件内存溢出的java处理Excel工具
+alibaba/druid,26512,阿里云计算平台DataWorks(https://help.aliyun.com/document_detail/137663.html) 团队出品，为监控而生的数据库连接池
+halo-dev/halo,25998,强大易用的开源建站工具。
+SeleniumHQ/selenium,25823,A browser automation framework and ecosystem.
+qiurunze123/miaosha,25709,⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓
+JakeWharton/butterknife,25666,Bind Android views and callbacks to fields and methods.
+lenve/vhr,25514,微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。
+alibaba/nacos,25401,"an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications."
+dromara/hutool,25397,🍬A set of tools that keep Java sweet.
+alibaba/fastjson,25183,"FASTJSON 2.0.x has been released, faster and more secure, recommend you upgrade."
+proxyee-down-org/proxyee-down,25125,http下载工具，基于http代理，支持多连接分块下载
+wuyouzhuguli/SpringAll,25015,循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Batch、Spring Cloud、Spring Cloud Alibaba、Spring Security & Spring Security OAuth2，博客Spring系列源码：https://mrbird.cc
+alibaba/canal,24987,阿里巴巴 MySQL binlog 增量订阅&消费组件 
+alibaba/spring-cloud-alibaba,24739,Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware.
+hollischuang/toBeTopJavaer,24345,To Be Top Javaer - Java工程师成神之路
+greenrobot/EventBus,24260,"Event bus for Android and Java that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality."
+apache/kafka,24170,Mirror of Apache Kafka
+scwang90/SmartRefreshLayout,24066,🔥下拉刷新、上拉加载、二级刷新、淘宝二楼、RefreshLayout、OverScroll，Android智能下拉刷新框架，支持越界回弹、越界拖动，具有极强的扩展性，集成了几十种炫酷的Header和 Footer。
+xuxueli/xxl-job,23566,A distributed task scheduling framework.（分布式任务调度平台XXL-JOB）
+CymChad/BaseRecyclerViewAdapterHelper,23389,BRVAH:Powerful and flexible RecyclerAdapter
+seata/seata,23321,":fire: Seata is an easy-to-use, high-performance, open source distributed transaction solution."
+signalapp/Signal-Android,23295,A private messenger for Android.
+Netflix/Hystrix,23186,"Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable."
+TeamNewPipe/NewPipe,22766,A libre lightweight streaming front-end for Android.
+google/gson,21838,A Java serialization/deserialization library to convert Java Objects into JSON and back
+DrKLO/Telegram,21465,Telegram for Android source
+apache/skywalking,21249,"APM, Application Performance Monitoring System"
+libgdx/libgdx,21106,Desktop/Android/HTML5/iOS Java game development framework
+doocs/leetcode,20948,😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解
+apache/flink,20646,Apache Flink
+redisson/redisson,20592,"Redisson - Redis Java client with features of In-Memory Data Grid. Over 50 Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Publish / Subscribe, Bloom filter, Spring Cache, Tomcat, Scheduler, JCache API, Hibernate, MyBatis, RPC, local cache ..."
+alibaba/Sentinel,20535,"A powerful flow control component enabling reliability, resilience and monitoring for microservices. (面向云原生微服务的高可用流控防护组件)"
+google/ExoPlayer,20385,An extensible media player for Android
+jenkinsci/jenkins,20288,Jenkins automation server
+bazelbuild/bazel,20275,"a fast, scalable, multi-language and extensible build system"
+ReactiveX/RxAndroid,19772,RxJava bindings for Android
+termux/termux-app,19401,Termux - a terminal emulator application for Android OS extendible by variety of packages.
+didi/DoKit,19291,一款面向泛前端产品研发全生命周期的效率平台。
+elunez/eladmin,19276,项目基于 Spring Boot 2.1.0 、 Jpa、 Spring Security、redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由
+apache/rocketmq,18719,"Apache RocketMQ is a cloud native messaging and streaming platform, making it simple to build event-driven applications."
+EnterpriseQualityCoding/FizzBuzzEnterpriseEdition,18631,FizzBuzz Enterprise Edition is a no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes.
+Baseflow/PhotoView,18439,"Implementation of ImageView for Android that supports zooming, by various touch gestures."
+CarGuo/GSYVideoPlayer,18258,"视频播放器（IJKplayer、ExoPlayer、MediaPlayer），HTTPS，支持弹幕，外挂字幕，支持滤镜、水印、gif截图，片头广告、中间广告，多个同时播放，支持基本的拖动，声音、亮度调节，支持边播边缓存，支持视频自带rotation的旋转（90,270之类），重力旋转与手动旋转的同步支持，支持列表播放 ，列表全屏动画，视频加载速度，列表小窗口支持拖动，动画效果，调整比例，多分辨率切换，支持切换播放器，进度条小窗口预览，列表切换详情页面无缝播放，rtsp、concat、mpeg。 "
+oracle/graal,18201,GraalVM: Run Programs Faster Anywhere :rocket:
+mybatis/mybatis-3,18183,MyBatis SQL mapper framework for Java
+apache/shardingsphere,17980,"Ecosystem to transform any database into a distributed database system, and enhance it with sharding, elastic scaling, encryption features & more"
+brettwooldridge/HikariCP,17825,"光 HikariCP・A solid, high-performance, JDBC connection pool at last."
+linlinjava/litemall,17722,又一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端 + Vue用户移动端
+dianping/cat,17537,"CAT 作为服务端项目基础组件，提供了 Java, C/C++, Node.js, Python, Go 等多语言客户端，已经在美团点评的基础架构中间件框架（MVC框架，RPC框架，数据库框架，缓存框架等，消息队列，配置系统等）深度集成，为美团点评各业务线提供系统丰富的性能指标、健康状况、实时告警等。"
+Anuken/Mindustry,17163,The automation tower defense RTS
+forezp/SpringCloudLearning,17102,《史上最简单的Spring Cloud教程源码》
+facebook/fresco,16908,An Android library for managing images and the memory they use.
+nostra13/Android-Universal-Image-Loader,16817,"Powerful and flexible library for loading, caching and displaying images on Android."
+Tencent/tinker,16691,"Tinker is a hot-fix solution library for Android, it supports dex, library and resources update without reinstall apk."
+shuzheng/zheng,16453,基于Spring+SpringMVC+Mybatis分布式敏捷开发系统架构，提供整套公共微服务服务模块：集中权限管理（单点登录）、内容管理、支付中心、用户管理（支持第三方登录）、微信平台、存储系统、配置中心、日志分析、任务和通知等，支持服务治理、监控和追踪，努力为中小型企业打造全方位J2EE企业级开发解决方案。
+winterbe/java8-tutorial,16164,Modern Java - A Guide to Java 8
+yudaocode/SpringBoot-Labs,16015,一个涵盖六个专栏：Spring Boot 2.X、Spring Cloud、Spring Cloud Alibaba、Dubbo、分布式消息队列、分布式事务的仓库。希望胖友小手一抖，右上角来个 Star，感恩 1024
+openzipkin/zipkin,15997,Zipkin is a distributed tracing system
+LMAX-Exchange/disruptor,15728,High Performance Inter-Thread Messaging Library
+iBotPeaches/Apktool,15687,A tool for reverse engineering Android apk files
+android10/Android-CleanArchitecture,15296,This is a sample app that is part of a series of blog posts I have written about how to architect an android application using Uncle Bob's clean architecture approach.
+JeffLi1993/springboot-learning-example,15264,spring boot 实践学习案例，是 spring boot 初学者及核心技术巩固的最佳实践。
+OpenAPITools/openapi-generator,15255,"OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)"
+openjdk/jdk,15055,JDK main-line development https://openjdk.org/projects/jdk
+keycloak/keycloak,14987,Open Source Identity and Access Management For Modern Applications and Services
+dyc87112/SpringBoot-Learning,14976,《Spring Boot基础教程》，2.x版本持续连载中！点击下方链接直达教程目录！
+medcl/elasticsearch-analysis-ik,14757,"The IK Analysis plugin integrates Lucene IK analyzer into elasticsearch, support customized dictionary."
+Tencent/APIJSON,14646,🏆 零代码、全功能、强安全 ORM 库 🚀 后端接口和文档零代码，前端(客户端) 定制返回 JSON 的数据和结构。 🏆 A JSON Transmission Protocol and an ORM Library 🚀  provides APIs and Docs without writing any code.
+material-components/material-components-android,14553,Modular and customizable Material Design UI components for Android
+prestodb/presto,14453,The official home of the Presto distributed SQL query engine for big data
+justauth/JustAuth,14383,"🏆Gitee 最有价值开源项目 🚀:100: 小而全而美的第三方登录开源组件。目前已支持Github、Gitee、微博、钉钉、百度、Coding、腾讯云开发者平台、OSChina、支付宝、QQ、微信、淘宝、Google、Facebook、抖音、领英、小米、微软、今日头条、Teambition、StackOverflow、Pinterest、人人、华为、企业微信、酷家乐、Gitlab、美团、饿了么、推特、飞书、京东、阿里云、喜马拉雅、Amazon、Slack和 Line 等第三方平台的授权登录。 Login, so easy!"
+hdodenhof/CircleImageView,14372,A circular ImageView for Android
+williamfiset/Algorithms,14320,A collection of algorithms and data structures
+android-hacker/VirtualXposed,14134,"A simple app to use Xposed without root, unlock the bootloader or modify system image, etc."
+alibaba/ARouter,14094,💪 A framework for assisting in the renovation of Android componentization (帮助 Android App 进行组件化改造的路由框架)
+baomidou/mybatis-plus,14030,An powerful enhanced toolkit of MyBatis for simplify development
+Tencent/QMUI_Android,13946,提高 Android UI 开发效率的 UI 库
+antlr/antlr4,13853,"ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files."
+mockito/mockito,13686,Most popular Mocking framework for unit tests written in Java
+lgvalle/Material-Animations,13559,Android Transition animations explanation with examples.
+orhanobut/logger,13527,"✔️ Simple, pretty and powerful logger for android"
+Konloch/bytecode-viewer,13522,"A Java 8+ Jar & Android APK Reverse Engineering Suite (Decompiler, Editor, Debugger & More)"
+eclipse-vertx/vert.x,13390,Vert.x is a tool-kit for building reactive applications on the JVM
+arduino/Arduino,13389,Arduino IDE 1.x
+heibaiying/BigData-Notes,13356,大数据入门指南  :star:
+elastic/logstash,13282,"Logstash - transport and process your logs, events, or other data"
+apache/hadoop,13262,Apache Hadoop
+Bigkoo/Android-PickerView,13249,"This is a picker view for android , support linkage effect, timepicker and optionspicker.（时间选择器、省市区三级联动）"
+Curzibn/Luban,13174,Luban(鲁班)—Image compression with efficiency very close to WeChat Moments/可能是最接近微信朋友圈的图片压缩算法
+zhisheng17/flink-learning,13158,flink learning blog. http://www.54tianzhisheng.cn/  含 Flink 入门、概念、原理、实战、性能调优、源码解析等内容。涉及 Flink Connector、Metrics、Library、DataStream API、Table API & SQL 等内容的学习案例，还有 Flink 落地应用的大型项目案例（PVUV、日志存储、百亿数据实时去重、监控告警）分享。欢迎大家支持我的专栏《大数据实时计算引擎 Flink 实战与性能优化》
+ben-manes/caffeine,13136,A high performance caching library for Java
+thingsboard/thingsboard,13091,"Open-source IoT Platform - Device management, data collection, processing and visualization."
+google/tink,13005,"Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse."
+lionsoul2014/ip2region,12861,"Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming languages"
+JessYanCoding/AndroidAutoSize,12853,🔥 A low-cost Android screen adaptation solution (今日头条屏幕适配方案终极版，一个极低成本的 Android 屏幕适配方案).
+alibaba/DataX,12842,DataX是阿里云DataWorks数据集成的开源版本。
+deeplearning4j/deeplearning4j,12770,"Suite of tools for deploying and training deep learning models using the JVM. Highlights include model import for keras, tensorflow, and onnx/pytorch, a modular and tiny c++ library for running math code and a java based math library on top of the core c++ library. Also includes samediff: a pytorch/tensorflow like library for running deep learning using automatic differentiation."
+pinpoint-apm/pinpoint,12621,"APM, (Application Performance Management) tool for large-scale distributed systems. "
+facebook/stetho,12618,"Stetho is a debug bridge for Android applications, enabling the powerful Chrome Developer Tools and much more."
+greenrobot/greenDAO,12563,greenDAO is a light & fast ORM solution for Android that maps objects to SQLite databases.
+GoogleContainerTools/jib,12533,🏗 Build container images for your Java applications.
+Grasscutters/Grasscutter,12531,A server software reimplementation for a certain anime game.
+Netflix/zuul,12428,"Zuul is a gateway service that provides dynamic routing, monitoring, resiliency, security, and more."
+apache/druid,12393,Apache Druid: a high performance real-time analytics database.
+zhihu/Matisse,12377,:fireworks: A well-designed local image and video selector for Android
+seaswalker/spring-analysis,12332,Spring源码阅读
+apache/pulsar,12311,Apache Pulsar - distributed pub-sub messaging system
+youth5201314/banner,12291,🔥🔥🔥Banner 2.0 来了！Android广告图片轮播控件，内部基于ViewPager2实现，Indicator和UI都可以自定义。
+daimajia/AndroidSwipeLayout,12272,The Most Powerful Swipe Layout!
+daimajia/AndroidViewAnimations,12229,Cute view animation collection.
+LuckSiege/PictureSelector,12209,Picture Selector Library for Android or 图片选择器
+java-decompiler/jd-gui,12155,A standalone Java Decompiler GUI
+sqshq/piggymetrics,12150,"Microservice Architecture with Spring Boot, Spring Cloud and Docker"
+projectlombok/lombok,11776,Very spicy additions to the Java programming language.
+google/guice,11773,"Guice (pronounced 'juice') is a lightweight dependency injection framework for Java 8 and above, brought to you by Google."
+macrozheng/mall-learning,11746,mall学习教程，架构、业务、技术要点全方位解析。mall项目（50k+star）是一套电商系统，使用现阶段主流技术实现。涵盖了SpringBoot 2.3.0、MyBatis 3.4.6、Elasticsearch 7.6.2、RabbitMQ 3.7.15、Redis 5.0、MongoDB 4.2.5、Mysql5.7等技术，采用Docker容器化部署。
+Netflix/eureka,11682,AWS Service registry for resilient mid-tier load balancing and failover.
+Tencent/VasSonic,11636,"VasSonic is a lightweight and high-performance Hybrid framework developed by tencent VAS team, which is intended to speed up the first screen of websites working on Android and iOS platform. "
+dromara/Sa-Token,11551,这可能是史上功能最全的Java权限认证框架！目前已集成——登录认证、权限认证、分布式Session会话、微服务网关鉴权、单点登录、OAuth2.0、踢人下线、Redis集成、前后台分离、记住我模式、模拟他人账号、临时身份切换、账号封禁、多账号认证体系、注解式鉴权、路由拦截式鉴权、花式token生成、自动续签、同端互斥登录、会话治理、密码加密、jwt集成、Spring集成、WebFlux集成...
+pagehelper/Mybatis-PageHelper,11542,Mybatis通用分页插件
+codecentric/spring-boot-admin,11504,Admin UI for administration of spring boot applications
+Yalantis/uCrop,11426,Image Cropping Library for Android
+doocs/source-code-hunter,11410,😱 从源码层面，剖析挖掘互联网行业主流技术的底层实现原理，为广大开发者 “提升技术深度” 提供便利。目前开放 Spring 全家桶，Mybatis、Netty、Dubbo 框架，及 Redis、Tomcat 中间件等
+quarkusio/quarkus,11370,Quarkus: Supersonic Subatomic Java. 
+realm/realm-java,11358,Realm is a mobile database: a replacement for SQLite & ORMs
+androidannotations/androidannotations,11136,Fast Android Development. Easy maintainance.
+jfeinstein10/SlidingMenu,11135,An Android library that allows you to easily create applications with slide-in menus. You may use it in your Android apps provided that you cite this project and include the license in your app. Thanks!
+permissions-dispatcher/PermissionsDispatcher,11097,A declarative API to handle Android runtime permissions.
+neo4j/neo4j,11067,Graphs for Everyone
+apache/zookeeper,11060,Apache ZooKeeper
+frank-lam/fullstack-tutorial,10972,🚀 fullstack tutorial 2022，后台技术栈/架构师之路/全栈开发社区，春招/秋招/校招/面试
+janishar/mit-deep-learning-book-pdf,10912,"MIT Deep Learning Book in PDF format (complete and parts) by Ian Goodfellow, Yoshua Bengio and Aaron Courville"
+redis/jedis,10910,Redis Java client designed for performance and ease of use.
+alibaba/vlayout,10837,"Project vlayout is a powerfull LayoutManager extension for RecyclerView, it provides a group of layouts for RecyclerView. Make it able to handle a complicate situation when grid, list and other layouts in the same recyclerview. "
+theonedev/onedev,10803,Self-hosted Git Server with CI/CD and Kanban
+H07000223/FlycoTabLayout,10797,An Android TabLayout Lib
+DuGuQiuBai/Java,10742,27天成为Java大神
+lingochamp/FileDownloader,10737,Multitask、MultiThread(MultiConnection)、Breakpoint-resume、High-concurrency、Simple to use、Single/NotSingle-process
+code4craft/webmagic,10713,A scalable web crawler framework for Java.
+mission-peace/interview,10679,Interview questions
+gyf-dev/ImmersionBar,10677,android 4.4以上沉浸式状态栏和沉浸式导航栏管理，适配横竖屏切换、刘海屏、软键盘弹出等问题，可以修改状态栏字体颜色和导航栏图标颜色，以及不可修改字体颜色手机的适配，适用于Activity、Fragment、DialogFragment、Dialog，PopupWindow，一句代码轻松实现，以及对bar的其他设置，详见README。简书请参考：http://www.jianshu.com/p/2a884e211a62
+kunal-kushwaha/DSA-Bootcamp-Java,10674,"This repository consists of the code samples, assignments, and notes for the Java Data Structures & Algorithms bootcamp of Community Classroom."
+android-async-http/android-async-http,10650,This project under develop
+pxb1988/dex2jar,10618,Tools to work with android .dex and java .class files
+careercup/CtCI-6th-Edition,10510,Cracking the Coding Interview 6th Ed. Solutions
+jeasonlzy/okhttp-OkGo,10501,OkGo - 3.0 震撼来袭，该库是基于 Http 协议，封装了 OkHttp 的网络请求框架，比 Retrofit 更简单易用，支持 RxJava，RxJava2，支持自定义缓存，支持批量断点下载管理和批量上传管理功能
+zaproxy/zaproxy,10496,The OWASP ZAP core project
+lipangit/JiaoZiVideoPlayer,10439,MediaPlayer exoplayer ijkplayer ffmpeg
+tbruyelle/RxPermissions,10423,Android runtime permissions powered by RxJava2
+daniulive/SmarterStreaming,10374,业内为数不多致力于极致体验的超强全自研跨平台(windows/linux/android/iOS)流媒体内核，通过模块化自由组合，支持实时RTMP推流、RTSP推流、RTMP播放器、RTSP播放器、录像、多路流媒体转发、音视频导播、动态视频合成、音频混音、直播互动、内置轻量级RTSP服务等，比快更快，业界真正靠谱的超低延迟直播SDK(1秒内，低延迟模式下200~400ms)。
+grpc/grpc-java,10351,The Java gRPC implementation. HTTP/2 based RPC
+chefyuan/algorithm-base,10323,一位酷爱做饭的程序员，立志用动画将算法说的通俗易懂。我的面试网站 www.chengxuchu.com
+aosp-mirror/platform_frameworks_base,10306,
+JessYanCoding/MVPArms,10196,"⚔️ A common architecture for Android applications developing based on MVP, integrates many open source projects, to make your developing quicker and easier (一个整合了大量主流开源项目高度可配置化的 Android MVP 快速集成框架). "
+JakeWharton/ViewPagerIndicator,10195,Paging indicator widgets compatible with the ViewPager from the Android Support Library and ActionBarSherlock.
+questdb/questdb,10115,An open source time-series database for fast ingest and SQL queries
+square/javapoet,10054,A Java API for generating .java source files.
+google/auto,10018,A collection of source code generators for Java.

@@ -1,0 +1,16 @@
+{
+    "type": "module",
+    "version": "1.0.0",
+    "description": "",
+    "main": "main.js",
+    "scripts": {
+        "start": "node main.js"
+    },
+    "author": "Yi Zhang",
+    "license": "ISC",
+    "dependencies": {
+        "@octokit/graphql": "^4.6.1",
+        "csv-writer": "^1.6.0",
+        "fs": "^0.0.1-security"
+    }
+}
